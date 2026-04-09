@@ -6,13 +6,5 @@
     "description": "",
     "favicon": "https://erp.krka.ca/web/static/img/favicon.ico",
     "createdAt": "2026-04-09T13:03:19.045Z"
-  },
-  {
-    "id": "e9642103-9024-433b-84a4-386570347e1c",
-    "url": "https://pydantic.dev/",
-    "title": "Pydantic | The end-to-end AI engineering stack",
-    "description": "Pydantic is the AI engineering stack for teams building with AI. Observe with Logfire, evaluate with Evals, build type-safe agents with Pydantic AI, and track costs with AI Gateway.",
-    "favicon": "https://pydantic.dev/opengraph-image.jpg?0dd4085499769607",
-    "createdAt": "2026-04-09T13:04:01.294Z"
   }
 ]
