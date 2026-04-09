@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "d0955ffb-9a03-4ca4-833c-5643da968ba7",
+    "url": "https://pydantic.dev/",
+    "title": "Pydantic | The end-to-end AI engineering stack",
+    "description": "Pydantic is the AI engineering stack for teams building with AI. Observe with Logfire, evaluate with Evals, build type-safe agents with Pydantic AI, and track costs with AI Gateway.",
+    "favicon": "https://pydantic.dev/favicon/apple-touch-icon.png",
+    "createdAt": "2026-04-09T13:06:22.723Z"
+  }
+]
