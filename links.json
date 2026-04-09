@@ -6,5 +6,13 @@
     "description": "Pydantic is the AI engineering stack for teams building with AI. Observe with Logfire, evaluate with Evals, build type-safe agents with Pydantic AI, and track costs with AI Gateway.",
     "favicon": "https://pydantic.dev/favicon/apple-touch-icon.png",
     "createdAt": "2026-04-09T13:06:22.723Z"
+  },
+  {
+    "id": "6a025e44-0568-4cf7-835f-b7a92e1fbf7e",
+    "url": "https://proxmox.lan:8006/",
+    "title": "proxmox.lan",
+    "description": "",
+    "favicon": "https://www.google.com/s2/favicons?domain=proxmox.lan&sz=128",
+    "createdAt": "2026-04-09T13:08:06.343Z"
   }
 ]
